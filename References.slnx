@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lecture/Lecture.vcxproj" />
+  <Project Path="References/References.vcxproj" />
+</Solution>
